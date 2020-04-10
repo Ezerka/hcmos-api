@@ -3,7 +3,6 @@ import path from 'path';
 import morgan from 'morgan';
 import cors from 'cors';
 
-import firebase, {db} from './firebase'
 import * as Sentry from '@sentry/node';
 
 
